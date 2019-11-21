@@ -1,2 +1,3 @@
 # coursera
-deep learning and ai
+- deep learning and ai
+
